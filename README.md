@@ -1,7 +1,7 @@
 # Navmesh AI Tutorial 17 - Customize Agent Movement on NavMeshLinks Based on the Area Type
 The below video is the tutorial that **ENDS** where this project is. In the tutorial I review how to construct pieces of level so feel free to follow along with this project.
 
-[![Youtube Tutorial](./Video%20Screenshot.png)](https://youtu.be/)
+[![Youtube Tutorial](./Video%20Screenshot.png)](https://youtu.be/PD6VFD1a21g)
 
 ## Patreon Supporters
 Have you been getting value out of these tutorials? Do you believe in LlamAcademy's mission of helping everyone make their game dev dream become a reality? Consider becoming a Patreon supporter and get your name added to this list, as well as other cool perks.
@@ -19,13 +19,15 @@ Head over to https://patreon.com/llamacademy to show your support.
 
 In this project we have 6 Scenes:
 
-NavMeshLink Demo: [AI Series Part 17]()
+NavMeshLink Demo: [AI Series Part 17](https://youtu.be/PD6VFD1a21g)
 1. Small scene with several NavMeshLinks with different configurations to showcase customization of NavMeshAgent movement over a NavMeshLink based on Area Type.
 
-Additive Loading Scenes: [AI Series Part 16]()
+Additive Loading Scenes: [AI Series Part 16](https://youtu.be/ygr5YyTRsBY)
+
 Additive Scene 1:
 1. SampleScene below with a trigger to load a new scene when the player gets to a particular zone of the level
 2. Additively load "Additive Scene 2"
+
 Additive Scene 2:
 1. Connects to "Additive Scene 1" with a NavMeshLink to allow players and enemies to travel to the new scene uninterrupted
 
